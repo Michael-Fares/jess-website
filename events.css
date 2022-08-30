@@ -1,0 +1,21 @@
+.events-main {
+    font-family: var(--font-primary);
+}
+.event-title {
+    text-transform: uppercase;
+}
+.event-card {
+    border: 1px solid black;
+    border-radius: 0 1rem;
+    box-shadow: var(--nav-shadow);
+    overflow: hidden;
+}
+.event-card-img {
+    box-shadow: var(--nav-shadow);
+ 
+}
+.event-img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+}
